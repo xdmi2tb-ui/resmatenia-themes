@@ -1,0 +1,5 @@
+/* Ocean Drift — Resmatenia theme */
+body.resmateniaRemoteTheme {
+    background: linear-gradient(160deg, #d8ecf2 0%, #a7d3e0 50%, #5f9fbd 100%);
+    --accent: #205a76;
+}

@@ -1,0 +1,13 @@
+/* Plum Dusk — Resmatenia theme */
+body.resmateniaRemoteTheme {
+    --bg: #201526;
+    --surface: rgba(45,28,53,.92);
+    --surface-strong: #33203c;
+    --text: #f1e7f5;
+    --muted: #b79cc2;
+    --border: rgba(255,255,255,.1);
+    background:
+        radial-gradient(circle at 80% 20%, rgba(140,70,160,.18), transparent 35%),
+        #201526;
+    --accent: #a866c0;
+}

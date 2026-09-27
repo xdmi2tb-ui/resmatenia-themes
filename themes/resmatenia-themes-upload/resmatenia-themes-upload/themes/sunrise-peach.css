@@ -1,0 +1,5 @@
+/* Sunrise Peach — Resmatenia theme */
+body.resmateniaRemoteTheme {
+    background: linear-gradient(160deg, #ffe3c2 0%, #ffc9a8 45%, #ff9d8a 100%);
+    --accent: #b4482f;
+}

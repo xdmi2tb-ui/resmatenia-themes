@@ -1,0 +1,5 @@
+/* Berry Fade — Resmatenia theme */
+body.resmateniaRemoteTheme {
+    background: linear-gradient(160deg, #f6dbe6 0%, #dba7c4 55%, #8a4c78 100%);
+    --accent: #5c2b4d;
+}

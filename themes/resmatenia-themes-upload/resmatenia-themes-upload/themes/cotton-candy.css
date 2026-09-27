@@ -1,0 +1,8 @@
+/* Cotton Candy — Resmatenia theme */
+body.resmateniaRemoteTheme {
+    background:
+        radial-gradient(circle at 20% 20%, rgba(255,190,220,.9), transparent 45%),
+        radial-gradient(circle at 80% 70%, rgba(180,200,255,.9), transparent 45%),
+        #f7f2fb;
+    --accent: #8b5aa8;
+}

@@ -1,0 +1,11 @@
+/* Confetti — Resmatenia theme */
+body.resmateniaRemoteTheme {
+    background-color: #fffdf8;
+    background-image:
+        radial-gradient(circle, rgba(230,90,110,.35) 2px, transparent 3px),
+        radial-gradient(circle, rgba(80,140,220,.35) 2px, transparent 3px),
+        radial-gradient(circle, rgba(240,190,50,.35) 2px, transparent 3px);
+    background-size: 40px 40px, 55px 55px, 33px 33px;
+    background-position: 0 0, 15px 20px, 25px 5px;
+    --accent: #c23b5a;
+}

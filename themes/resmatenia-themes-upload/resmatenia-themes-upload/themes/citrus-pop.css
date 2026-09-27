@@ -1,0 +1,5 @@
+/* Citrus Pop — Resmatenia theme */
+body.resmateniaRemoteTheme {
+    background: linear-gradient(150deg, #fff6c9 0%, #ffe08a 45%, #ffb84d 100%);
+    --accent: #8a5a10;
+}

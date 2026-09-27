@@ -1,0 +1,12 @@
+/* Terrazzo — Resmatenia theme */
+body.resmateniaRemoteTheme {
+    background-color: #f4f2ee;
+    background-image:
+        radial-gradient(circle at 15% 25%, rgba(210,90,90,.25) 4px, transparent 5px),
+        radial-gradient(circle at 65% 15%, rgba(80,140,120,.25) 3px, transparent 4px),
+        radial-gradient(circle at 40% 60%, rgba(90,100,200,.22) 5px, transparent 6px),
+        radial-gradient(circle at 85% 70%, rgba(230,170,50,.25) 4px, transparent 5px),
+        radial-gradient(circle at 25% 85%, rgba(150,90,180,.22) 3px, transparent 4px);
+    background-size: 120px 120px;
+    --accent: #333333;
+}

@@ -1,0 +1,11 @@
+/* Obsidian — Resmatenia theme */
+body.resmateniaRemoteTheme {
+    --bg: #121212;
+    --surface: rgba(28,28,28,.9);
+    --surface-strong: #1e1e1e;
+    --text: #f2f2f2;
+    --muted: #9c9c9c;
+    --border: rgba(255,255,255,.1);
+    background: #121212;
+    --accent: #d0d0d0;
+}

@@ -1,0 +1,11 @@
+/* Espresso — Resmatenia theme */
+body.resmateniaRemoteTheme {
+    --bg: #241c17;
+    --surface: rgba(50,40,34,.9);
+    --surface-strong: #362a23;
+    --text: #f3ece6;
+    --muted: #b8a99c;
+    --border: rgba(255,255,255,.1);
+    background: #241c17;
+    --accent: #c98a4b;
+}

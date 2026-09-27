@@ -1,0 +1,13 @@
+/* Ember Night — Resmatenia theme */
+body.resmateniaRemoteTheme {
+    --bg: #1c1210;
+    --surface: rgba(43,28,24,.92);
+    --surface-strong: #331f19;
+    --text: #f5e9e2;
+    --muted: #c2a595;
+    --border: rgba(255,255,255,.1);
+    background:
+        radial-gradient(circle at 20% 80%, rgba(210,110,50,.15), transparent 35%),
+        #1c1210;
+    --accent: #d97a3f;
+}

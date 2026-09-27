@@ -1,0 +1,184 @@
+[
+  {
+    "id": "ivory",
+    "name": "Ivory",
+    "category": "Minimal",
+    "preview": "#f7f4ee",
+    "css": "themes/ivory.css"
+  },
+  {
+    "id": "blush",
+    "name": "Blush",
+    "category": "Minimal",
+    "preview": "#f7ebee",
+    "css": "themes/blush.css"
+  },
+  {
+    "id": "sage",
+    "name": "Sage",
+    "category": "Minimal",
+    "preview": "#eef2ea",
+    "css": "themes/sage.css"
+  },
+  {
+    "id": "skyline",
+    "name": "Skyline",
+    "category": "Minimal",
+    "preview": "#eaf1f6",
+    "css": "themes/skyline.css"
+  },
+  {
+    "id": "lilac-fog",
+    "name": "Lilac Fog",
+    "category": "Minimal",
+    "preview": "#f1eef7",
+    "css": "themes/lilac-fog.css"
+  },
+  {
+    "id": "espresso",
+    "name": "Espresso",
+    "category": "Minimal",
+    "preview": "#241c17",
+    "css": "themes/espresso.css"
+  },
+  {
+    "id": "sunrise-peach",
+    "name": "Sunrise Peach",
+    "category": "Gradients",
+    "preview": "linear-gradient(160deg,#ffe3c2,#ff9d8a)",
+    "css": "themes/sunrise-peach.css"
+  },
+  {
+    "id": "ocean-drift",
+    "name": "Ocean Drift",
+    "category": "Gradients",
+    "preview": "linear-gradient(160deg,#d8ecf2,#5f9fbd)",
+    "css": "themes/ocean-drift.css"
+  },
+  {
+    "id": "cotton-candy",
+    "name": "Cotton Candy",
+    "category": "Gradients",
+    "preview": "linear-gradient(135deg,#ffc6de,#b4c6ff)",
+    "css": "themes/cotton-candy.css"
+  },
+  {
+    "id": "citrus-pop",
+    "name": "Citrus Pop",
+    "category": "Gradients",
+    "preview": "linear-gradient(150deg,#fff6c9,#ffb84d)",
+    "css": "themes/citrus-pop.css"
+  },
+  {
+    "id": "berry-fade",
+    "name": "Berry Fade",
+    "category": "Gradients",
+    "preview": "linear-gradient(160deg,#f6dbe6,#8a4c78)",
+    "css": "themes/berry-fade.css"
+  },
+  {
+    "id": "mint-wave",
+    "name": "Mint Wave",
+    "category": "Gradients",
+    "preview": "linear-gradient(160deg,#e3f7ee,#7bc9a8)",
+    "css": "themes/mint-wave.css"
+  },
+  {
+    "id": "herringbone",
+    "name": "Herringbone",
+    "category": "Patterns",
+    "preview": "#f2efe9",
+    "css": "themes/herringbone.css"
+  },
+  {
+    "id": "terrazzo",
+    "name": "Terrazzo",
+    "category": "Patterns",
+    "preview": "#f4f2ee",
+    "css": "themes/terrazzo.css"
+  },
+  {
+    "id": "confetti",
+    "name": "Confetti",
+    "category": "Patterns",
+    "preview": "#fffdf8",
+    "css": "themes/confetti.css"
+  },
+  {
+    "id": "houndstooth",
+    "name": "Houndstooth",
+    "category": "Patterns",
+    "preview": "#f0efec",
+    "css": "themes/houndstooth.css"
+  },
+  {
+    "id": "obsidian",
+    "name": "Obsidian",
+    "category": "Dark",
+    "preview": "#121212",
+    "css": "themes/obsidian.css"
+  },
+  {
+    "id": "deep-sea",
+    "name": "Deep Sea",
+    "category": "Dark",
+    "preview": "#0c1f2b",
+    "css": "themes/deep-sea.css"
+  },
+  {
+    "id": "ember-night",
+    "name": "Ember Night",
+    "category": "Dark",
+    "preview": "#1c1210",
+    "css": "themes/ember-night.css"
+  },
+  {
+    "id": "plum-dusk",
+    "name": "Plum Dusk",
+    "category": "Dark",
+    "preview": "#201526",
+    "css": "themes/plum-dusk.css"
+  },
+  {
+    "id": "sakura-teahouse",
+    "name": "Sakura Teahouse",
+    "category": "Scenes",
+    "preview": "linear-gradient(180deg,#fbeaf0,#eec3d2)",
+    "css": "themes/sakura-teahouse.css"
+  },
+  {
+    "id": "riad-courtyard",
+    "name": "Riad Courtyard",
+    "category": "Scenes",
+    "preview": "linear-gradient(180deg,#fdf1d8,#eec37f)",
+    "css": "themes/riad-courtyard.css"
+  },
+  {
+    "id": "santorini-blue",
+    "name": "Santorini Blue",
+    "category": "Scenes",
+    "preview": "linear-gradient(180deg,#eaf4fb,#9fd0ea)",
+    "css": "themes/santorini-blue.css"
+  },
+  {
+    "id": "northern-pines",
+    "name": "Northern Pines",
+    "category": "Scenes",
+    "preview": "linear-gradient(180deg,#0b1a22,#1c4a55)",
+    "css": "themes/northern-pines.css"
+  },
+  {
+    "id": "desert-fiesta",
+    "name": "Desert Fiesta",
+    "category": "Scenes",
+    "preview": "linear-gradient(180deg,#fdeacb,#eeb15e)",
+    "css": "themes/desert-fiesta.css"
+  },
+  {
+    "id": "desert-dunes",
+    "name": "Desert Dunes",
+    "category": "Scenes",
+    "preview": "linear-gradient(180deg,#fdf1d6,#eec06c)",
+    "css": "themes/desert-dunes.css"
+  }
+]

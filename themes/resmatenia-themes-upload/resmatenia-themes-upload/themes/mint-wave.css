@@ -1,0 +1,5 @@
+/* Mint Wave — Resmatenia theme */
+body.resmateniaRemoteTheme {
+    background: linear-gradient(160deg, #e3f7ee 0%, #b9e8d2 50%, #7bc9a8 100%);
+    --accent: #1e6b4a;
+}

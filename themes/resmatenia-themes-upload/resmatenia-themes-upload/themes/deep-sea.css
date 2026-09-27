@@ -1,0 +1,13 @@
+/* Deep Sea — Resmatenia theme */
+body.resmateniaRemoteTheme {
+    --bg: #0c1f2b;
+    --surface: rgba(15,40,54,.92);
+    --surface-strong: #123240;
+    --text: #e8f3f6;
+    --muted: #8fb3c2;
+    --border: rgba(255,255,255,.1);
+    background:
+        radial-gradient(circle at 75% 15%, rgba(60,140,170,.18), transparent 35%),
+        #0c1f2b;
+    --accent: #4fb3c9;
+}
